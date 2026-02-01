@@ -63,12 +63,10 @@ public class Calculator {
     }
     return result;
     } else {
-    return 0;
-
-    // INTENTIONAL DUPLICATION
-public int addAgain(int a, int b) {
-return a + b;
-}
-
+    return 0;}
     }
+        // INTENTIONAL DUPLICATION
+    public int addAgain(int a, int b) {
+    return a + b;
+}
 }
