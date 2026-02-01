@@ -40,5 +40,5 @@ steps:
     run: |
       mvn sonar:sonar \
         -Dsonar.projectKey=daladawaththaht214041u_lab2 \
-        -Dsonar.organization=DaladawaththaHT214041U \
+        -Dsonar.organization=DaladawaththaHT214041 \
         -Dsonar.host.url=https://sonarcloud.io
